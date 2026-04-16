@@ -3,12 +3,12 @@ import { Instagram, Heart, MessageCircle } from './Icons';
 const InstagramFeed = () => {
   // Simulated Instagram posts
   const posts = [
-    { id: 1, image: '/assets/hero-baby.png' },
-    { id: 2, image: '/assets/girl-premium.png' },
-    { id: 3, image: '/assets/hero-baby.png' },
-    { id: 4, image: '/assets/girl-premium.png' },
-    { id: 5, image: '/assets/hero-baby.png' },
-    { id: 6, image: '/assets/girl-premium.png' },
+    { id: 1, image: 'assets/hero-baby.png' },
+    { id: 2, image: 'assets/girl-premium.png' },
+    { id: 3, image: 'assets/hero-baby.png' },
+    { id: 4, image: 'assets/girl-premium.png' },
+    { id: 5, image: 'assets/hero-baby.png' },
+    { id: 6, image: 'assets/girl-premium.png' },
   ];
 
   return (

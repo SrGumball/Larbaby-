@@ -6,7 +6,7 @@ const About = () => {
       <div className="container">
         <div className="about-grid">
           <div className="about-image-container">
-            <img src="/assets/girl-premium.png" alt="Sobre Lar Baby" className="about-img" />
+            <img src="assets/girl-premium.png" alt="Sobre Lar Baby" className="about-img" />
             <div className="exp-card">
               <span className="exp-num">100%</span>
               <span className="exp-text">Dedicado ao Carinho</span>

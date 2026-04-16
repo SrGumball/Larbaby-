@@ -26,10 +26,10 @@ const Hero = () => {
 
         <div className="hero-images">
           <div className="img-card main-img">
-            <img src="/assets/hero-baby.png" alt="Bebê com estilo" />
+            <img src="assets/hero-baby.png" alt="Bebê com estilo" />
           </div>
           <div className="img-card second-img">
-            <img src="/assets/girl-premium.png" alt="Criança bem vestida" />
+            <img src="assets/girl-premium.png" alt="Criança bem vestida" />
           </div>
           <div className="floating-blob"></div>
         </div>
